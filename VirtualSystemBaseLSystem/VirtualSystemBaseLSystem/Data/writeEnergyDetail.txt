@@ -1,0 +1,60 @@
+Iterator:1
+Require Energy:7.09471
+Generate Energy:0
+Avaliable Energy:0
+Remind Energy:0
+
+Iterator:2
+Require Energy:30.8101
+Generate Energy:0
+Avaliable Energy:0
+Remind Energy:0
+
+Iterator:3
+Require Energy:118.8
+Generate Energy:128.747
+Avaliable Energy:128.747
+Remind Energy:9.9471
+
+Iterator:4
+Require Energy:382.982
+Generate Energy:386.241
+Avaliable Energy:396.188
+Remind Energy:13.2065
+
+Iterator:5
+Require Energy:933.622
+Generate Energy:772.483
+Avaliable Energy:785.689
+Remind Energy:0
+
+Iterator:6
+Require Energy:1823.3
+Generate Energy:1287.47
+Avaliable Energy:1287.47
+Remind Energy:0
+
+Iterator:7
+Require Energy:3047.49
+Generate Energy:2059.95
+Avaliable Energy:2059.95
+Remind Energy:0
+
+Iterator:8
+Require Energy:4637.9
+Generate Energy:3089.93
+Avaliable Energy:3089.93
+Remind Energy:0
+
+Iterator:9
+Require Energy:7301.09
+Generate Energy:64373.6
+Avaliable Energy:64373.6
+Remind Energy:57072.5
+
+Iterator:10
+Require Energy:11218.4
+Generate Energy:65403.5
+Avaliable Energy:122476
+Remind Energy:111258
+

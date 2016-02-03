@@ -1,0 +1,603 @@
+Iterator Time:10
+No.1   Length:0.632555   Redius:1.26511   LeafAmount:0   
+No.2   Length:0.675423   Redius:1.35085   LeafAmount:0   
+No.3   Length:0.713447   Redius:1.42689   LeafAmount:0   
+No.4   Length:0.7478   Redius:1.4956   LeafAmount:0   
+No.5   Length:0.779257   Redius:1.55851   LeafAmount:0   
+No.6   Length:0.808361   Redius:1.61672   LeafAmount:0   
+No.7   Length:0.833181   Redius:1.66636   LeafAmount:0   
+No.8   Length:0.858806   Redius:1.71761   LeafAmount:0   
+No.9   Length:0.882987   Redius:1.76597   LeafAmount:0   
+No.10   Length:0.90361   Redius:1.80722   LeafAmount:0   
+No.11   Length:0.749108   Redius:1.49822   LeafAmount:2   
+No.12   Length:0.944159   Redius:1.88832   LeafAmount:0   
+No.13   Length:0.770126   Redius:1.54025   LeafAmount:2   
+No.14   Length:0.978597   Redius:1.95719   LeafAmount:0   
+No.15   Length:0.786826   Redius:1.57365   LeafAmount:2   
+No.16   Length:1.01328   Redius:2.02656   LeafAmount:0   
+No.17   Length:0.812415   Redius:1.62483   LeafAmount:2   
+No.18   Length:1.04336   Redius:2.08672   LeafAmount:0   
+No.19   Length:0.848094   Redius:1.69619   LeafAmount:2   
+No.20   Length:1.07466   Redius:2.14931   LeafAmount:0   
+No.21   Length:0.910177   Redius:1.82035   LeafAmount:2   
+No.22   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.23   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.24   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.25   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.26   Rule:B(l*0.6,w*0.85,y*0.6)
+No.27   Length:0.90361   Redius:1.80722   LeafAmount:0   
+No.28   Length:0.749108   Redius:1.49822   LeafAmount:2   
+No.29   Length:0.944159   Redius:1.88832   LeafAmount:0   
+No.30   Length:0.770126   Redius:1.54025   LeafAmount:2   
+No.31   Length:0.978597   Redius:1.95719   LeafAmount:0   
+No.32   Length:0.786826   Redius:1.57365   LeafAmount:2   
+No.33   Length:1.01328   Redius:2.02656   LeafAmount:0   
+No.34   Length:0.812415   Redius:1.62483   LeafAmount:2   
+No.35   Length:1.04336   Redius:2.08672   LeafAmount:0   
+No.36   Length:0.848094   Redius:1.69619   LeafAmount:2   
+No.37   Length:1.07466   Redius:2.14931   LeafAmount:0   
+No.38   Length:0.910177   Redius:1.82035   LeafAmount:2   
+No.39   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.40   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.41   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.42   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.43   Rule:B(l*0.6,w*0.85,y*0.6)
+No.44   Length:0.90361   Redius:1.80722   LeafAmount:0   
+No.45   Length:0.749108   Redius:1.49822   LeafAmount:2   
+No.46   Length:0.944159   Redius:1.88832   LeafAmount:0   
+No.47   Length:0.770126   Redius:1.54025   LeafAmount:2   
+No.48   Length:0.978597   Redius:1.95719   LeafAmount:0   
+No.49   Length:0.786826   Redius:1.57365   LeafAmount:2   
+No.50   Length:1.01328   Redius:2.02656   LeafAmount:0   
+No.51   Length:0.812415   Redius:1.62483   LeafAmount:2   
+No.52   Length:1.04336   Redius:2.08672   LeafAmount:0   
+No.53   Length:0.848094   Redius:1.69619   LeafAmount:2   
+No.54   Length:1.07466   Redius:2.14931   LeafAmount:0   
+No.55   Length:0.910177   Redius:1.82035   LeafAmount:2   
+No.56   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.57   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.58   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.59   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.60   Rule:B(l*0.6,w*0.85,y*0.6)
+No.61   Length:0.90361   Redius:1.80722   LeafAmount:0   
+No.62   Length:0.749108   Redius:1.49822   LeafAmount:2   
+No.63   Length:0.944159   Redius:1.88832   LeafAmount:0   
+No.64   Length:0.770126   Redius:1.54025   LeafAmount:2   
+No.65   Length:0.978597   Redius:1.95719   LeafAmount:0   
+No.66   Length:0.786826   Redius:1.57365   LeafAmount:2   
+No.67   Length:1.01328   Redius:2.02656   LeafAmount:0   
+No.68   Length:0.812415   Redius:1.62483   LeafAmount:2   
+No.69   Length:1.04336   Redius:2.08672   LeafAmount:0   
+No.70   Length:0.848094   Redius:1.69619   LeafAmount:2   
+No.71   Length:1.07466   Redius:2.14931   LeafAmount:0   
+No.72   Length:0.910177   Redius:1.82035   LeafAmount:2   
+No.73   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.74   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.75   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.76   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.77   Rule:B(l*0.6,w*0.85,y*0.6)
+No.78   Length:0.90361   Redius:1.80722   LeafAmount:0   
+No.79   Length:0.749108   Redius:1.49822   LeafAmount:2   
+No.80   Length:0.944159   Redius:1.88832   LeafAmount:0   
+No.81   Length:0.770126   Redius:1.54025   LeafAmount:2   
+No.82   Length:0.978597   Redius:1.95719   LeafAmount:0   
+No.83   Length:0.786826   Redius:1.57365   LeafAmount:2   
+No.84   Length:1.01328   Redius:2.02656   LeafAmount:0   
+No.85   Length:0.812415   Redius:1.62483   LeafAmount:2   
+No.86   Length:1.04336   Redius:2.08672   LeafAmount:0   
+No.87   Length:0.848094   Redius:1.69619   LeafAmount:2   
+No.88   Length:1.07466   Redius:2.14931   LeafAmount:0   
+No.89   Length:0.910177   Redius:1.82035   LeafAmount:2   
+No.90   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.91   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.92   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.93   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.94   Rule:B(l*0.6,w*0.85,y*0.6)
+No.95   Length:0.90361   Redius:1.80722   LeafAmount:0   
+No.96   Length:0.749108   Redius:1.49822   LeafAmount:2   
+No.97   Length:0.944159   Redius:1.88832   LeafAmount:0   
+No.98   Length:0.770126   Redius:1.54025   LeafAmount:2   
+No.99   Length:0.978597   Redius:1.95719   LeafAmount:0   
+No.100   Length:0.786826   Redius:1.57365   LeafAmount:2   
+No.101   Length:1.01328   Redius:2.02656   LeafAmount:0   
+No.102   Length:0.812415   Redius:1.62483   LeafAmount:2   
+No.103   Length:1.04336   Redius:2.08672   LeafAmount:0   
+No.104   Length:0.848094   Redius:1.69619   LeafAmount:2   
+No.105   Length:1.07466   Redius:2.14931   LeafAmount:0   
+No.106   Length:0.910177   Redius:1.82035   LeafAmount:2   
+No.107   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.108   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.109   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.110   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.111   Rule:B(l*0.6,w*0.85,y*0.6)
+No.112   Length:0.90361   Redius:1.80722   LeafAmount:0   
+No.113   Length:0.749108   Redius:1.49822   LeafAmount:2   
+No.114   Length:0.944159   Redius:1.88832   LeafAmount:0   
+No.115   Length:0.770126   Redius:1.54025   LeafAmount:2   
+No.116   Length:0.978597   Redius:1.95719   LeafAmount:0   
+No.117   Length:0.786826   Redius:1.57365   LeafAmount:2   
+No.118   Length:1.01328   Redius:2.02656   LeafAmount:0   
+No.119   Length:0.812415   Redius:1.62483   LeafAmount:2   
+No.120   Length:1.04336   Redius:2.08672   LeafAmount:0   
+No.121   Length:0.848094   Redius:1.69619   LeafAmount:2   
+No.122   Length:1.07466   Redius:2.14931   LeafAmount:0   
+No.123   Length:0.910177   Redius:1.82035   LeafAmount:2   
+No.124   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.125   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.126   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.127   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.128   Rule:B(l*0.6,w*0.85,y*0.6)
+No.129   Length:0.90361   Redius:1.80722   LeafAmount:0   
+No.130   Length:0.925537   Redius:1.85107   LeafAmount:0   
+No.131   Length:0.946471   Redius:1.89294   LeafAmount:0   
+No.132   Length:0.964301   Redius:1.9286   LeafAmount:0   
+No.133   Length:0.781853   Redius:1.56371   LeafAmount:2   
+No.134   Length:0.997387   Redius:1.99477   LeafAmount:0   
+No.135   Length:0.798159   Redius:1.59632   LeafAmount:2   
+No.136   Length:1.03084   Redius:2.06167   LeafAmount:0   
+No.137   Length:0.823441   Redius:1.64688   LeafAmount:2   
+No.138   Length:1.05994   Redius:2.11989   LeafAmount:0   
+No.139   Length:0.859279   Redius:1.71856   LeafAmount:2   
+No.140   Length:1.09031   Redius:2.18062   LeafAmount:0   
+No.141   Length:0.921781   Redius:1.84356   LeafAmount:2   
+No.142   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.143   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.144   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.145   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.146   Rule:B(l*0.6,w*0.85,y*0.6)
+No.147   Length:0.964301   Redius:1.9286   LeafAmount:0   
+No.148   Length:0.781853   Redius:1.56371   LeafAmount:2   
+No.149   Length:0.997387   Redius:1.99477   LeafAmount:0   
+No.150   Length:0.798159   Redius:1.59632   LeafAmount:2   
+No.151   Length:1.03084   Redius:2.06167   LeafAmount:0   
+No.152   Length:0.823441   Redius:1.64688   LeafAmount:2   
+No.153   Length:1.05994   Redius:2.11989   LeafAmount:0   
+No.154   Length:0.859279   Redius:1.71856   LeafAmount:2   
+No.155   Length:1.09031   Redius:2.18062   LeafAmount:0   
+No.156   Length:0.921781   Redius:1.84356   LeafAmount:2   
+No.157   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.158   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.159   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.160   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.161   Rule:B(l*0.6,w*0.85,y*0.6)
+No.162   Length:0.964301   Redius:1.9286   LeafAmount:0   
+No.163   Length:0.781853   Redius:1.56371   LeafAmount:2   
+No.164   Length:0.997387   Redius:1.99477   LeafAmount:0   
+No.165   Length:0.798159   Redius:1.59632   LeafAmount:2   
+No.166   Length:1.03084   Redius:2.06167   LeafAmount:0   
+No.167   Length:0.823441   Redius:1.64688   LeafAmount:2   
+No.168   Length:1.05994   Redius:2.11989   LeafAmount:0   
+No.169   Length:0.859279   Redius:1.71856   LeafAmount:2   
+No.170   Length:1.09031   Redius:2.18062   LeafAmount:0   
+No.171   Length:0.921781   Redius:1.84356   LeafAmount:2   
+No.172   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.173   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.174   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.175   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.176   Rule:B(l*0.6,w*0.85,y*0.6)
+No.177   Length:0.964301   Redius:1.9286   LeafAmount:0   
+No.178   Length:0.781853   Redius:1.56371   LeafAmount:2   
+No.179   Length:0.997387   Redius:1.99477   LeafAmount:0   
+No.180   Length:0.798159   Redius:1.59632   LeafAmount:2   
+No.181   Length:1.03084   Redius:2.06167   LeafAmount:0   
+No.182   Length:0.823441   Redius:1.64688   LeafAmount:2   
+No.183   Length:1.05994   Redius:2.11989   LeafAmount:0   
+No.184   Length:0.859279   Redius:1.71856   LeafAmount:2   
+No.185   Length:1.09031   Redius:2.18062   LeafAmount:0   
+No.186   Length:0.921781   Redius:1.84356   LeafAmount:2   
+No.187   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.188   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.189   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.190   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.191   Rule:B(l*0.6,w*0.85,y*0.6)
+No.192   Length:0.964301   Redius:1.9286   LeafAmount:0   
+No.193   Length:0.781853   Redius:1.56371   LeafAmount:2   
+No.194   Length:0.997387   Redius:1.99477   LeafAmount:0   
+No.195   Length:0.798159   Redius:1.59632   LeafAmount:2   
+No.196   Length:1.03084   Redius:2.06167   LeafAmount:0   
+No.197   Length:0.823441   Redius:1.64688   LeafAmount:2   
+No.198   Length:1.05994   Redius:2.11989   LeafAmount:0   
+No.199   Length:0.859279   Redius:1.71856   LeafAmount:2   
+No.200   Length:1.09031   Redius:2.18062   LeafAmount:0   
+No.201   Length:0.921781   Redius:1.84356   LeafAmount:2   
+No.202   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.203   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.204   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.205   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.206   Rule:B(l*0.6,w*0.85,y*0.6)
+No.207   Length:0.964301   Redius:1.9286   LeafAmount:0   
+No.208   Length:0.781853   Redius:1.56371   LeafAmount:2   
+No.209   Length:0.997387   Redius:1.99477   LeafAmount:0   
+No.210   Length:0.798159   Redius:1.59632   LeafAmount:2   
+No.211   Length:1.03084   Redius:2.06167   LeafAmount:0   
+No.212   Length:0.823441   Redius:1.64688   LeafAmount:2   
+No.213   Length:1.05994   Redius:2.11989   LeafAmount:0   
+No.214   Length:0.859279   Redius:1.71856   LeafAmount:2   
+No.215   Length:1.09031   Redius:2.18062   LeafAmount:0   
+No.216   Length:0.921781   Redius:1.84356   LeafAmount:2   
+No.217   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.218   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.219   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.220   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.221   Rule:B(l*0.6,w*0.85,y*0.6)
+No.222   Length:0.964301   Redius:1.9286   LeafAmount:0   
+No.223   Length:0.781853   Redius:1.56371   LeafAmount:2   
+No.224   Length:0.997387   Redius:1.99477   LeafAmount:0   
+No.225   Length:0.798159   Redius:1.59632   LeafAmount:2   
+No.226   Length:1.03084   Redius:2.06167   LeafAmount:0   
+No.227   Length:0.823441   Redius:1.64688   LeafAmount:2   
+No.228   Length:1.05994   Redius:2.11989   LeafAmount:0   
+No.229   Length:0.859279   Redius:1.71856   LeafAmount:2   
+No.230   Length:1.09031   Redius:2.18062   LeafAmount:0   
+No.231   Length:0.921781   Redius:1.84356   LeafAmount:2   
+No.232   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.233   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.234   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.235   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.236   Rule:B(l*0.6,w*0.85,y*0.6)
+No.237   Length:0.964301   Redius:1.9286   LeafAmount:0   
+No.238   Length:0.983635   Redius:1.96727   LeafAmount:0   
+No.239   Length:1.00224   Redius:2.00448   LeafAmount:0   
+No.240   Length:1.01549   Redius:2.03099   LeafAmount:0   
+No.241   Length:0.809179   Redius:1.61836   LeafAmount:2   
+No.242   Length:1.04782   Redius:2.09563   LeafAmount:0   
+No.243   Length:0.83418   Redius:1.66836   LeafAmount:2   
+No.244   Length:1.07602   Redius:2.15205   LeafAmount:0   
+No.245   Length:0.87018   Redius:1.74036   LeafAmount:2   
+No.246   Length:1.10552   Redius:2.21105   LeafAmount:0   
+No.247   Length:0.9331   Redius:1.8662   LeafAmount:2   
+No.248   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.249   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.250   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.251   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.252   Rule:B(l*0.6,w*0.85,y*0.6)
+No.253   Length:1.01549   Redius:2.03099   LeafAmount:0   
+No.254   Length:0.809179   Redius:1.61836   LeafAmount:2   
+No.255   Length:1.04782   Redius:2.09563   LeafAmount:0   
+No.256   Length:0.83418   Redius:1.66836   LeafAmount:2   
+No.257   Length:1.07602   Redius:2.15205   LeafAmount:0   
+No.258   Length:0.87018   Redius:1.74036   LeafAmount:2   
+No.259   Length:1.10552   Redius:2.21105   LeafAmount:0   
+No.260   Length:0.9331   Redius:1.8662   LeafAmount:2   
+No.261   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.262   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.263   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.264   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.265   Rule:B(l*0.6,w*0.85,y*0.6)
+No.266   Length:1.01549   Redius:2.03099   LeafAmount:0   
+No.267   Length:0.809179   Redius:1.61836   LeafAmount:2   
+No.268   Length:1.04782   Redius:2.09563   LeafAmount:0   
+No.269   Length:0.83418   Redius:1.66836   LeafAmount:2   
+No.270   Length:1.07602   Redius:2.15205   LeafAmount:0   
+No.271   Length:0.87018   Redius:1.74036   LeafAmount:2   
+No.272   Length:1.10552   Redius:2.21105   LeafAmount:0   
+No.273   Length:0.9331   Redius:1.8662   LeafAmount:2   
+No.274   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.275   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.276   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.277   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.278   Rule:B(l*0.6,w*0.85,y*0.6)
+No.279   Length:1.01549   Redius:2.03099   LeafAmount:0   
+No.280   Length:0.809179   Redius:1.61836   LeafAmount:2   
+No.281   Length:1.04782   Redius:2.09563   LeafAmount:0   
+No.282   Length:0.83418   Redius:1.66836   LeafAmount:2   
+No.283   Length:1.07602   Redius:2.15205   LeafAmount:0   
+No.284   Length:0.87018   Redius:1.74036   LeafAmount:2   
+No.285   Length:1.10552   Redius:2.21105   LeafAmount:0   
+No.286   Length:0.9331   Redius:1.8662   LeafAmount:2   
+No.287   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.288   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.289   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.290   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.291   Rule:B(l*0.6,w*0.85,y*0.6)
+No.292   Length:1.01549   Redius:2.03099   LeafAmount:0   
+No.293   Length:0.809179   Redius:1.61836   LeafAmount:2   
+No.294   Length:1.04782   Redius:2.09563   LeafAmount:0   
+No.295   Length:0.83418   Redius:1.66836   LeafAmount:2   
+No.296   Length:1.07602   Redius:2.15205   LeafAmount:0   
+No.297   Length:0.87018   Redius:1.74036   LeafAmount:2   
+No.298   Length:1.10552   Redius:2.21105   LeafAmount:0   
+No.299   Length:0.9331   Redius:1.8662   LeafAmount:2   
+No.300   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.301   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.302   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.303   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.304   Rule:B(l*0.6,w*0.85,y*0.6)
+No.305   Length:1.01549   Redius:2.03099   LeafAmount:0   
+No.306   Length:0.809179   Redius:1.61836   LeafAmount:2   
+No.307   Length:1.04782   Redius:2.09563   LeafAmount:0   
+No.308   Length:0.83418   Redius:1.66836   LeafAmount:2   
+No.309   Length:1.07602   Redius:2.15205   LeafAmount:0   
+No.310   Length:0.87018   Redius:1.74036   LeafAmount:2   
+No.311   Length:1.10552   Redius:2.21105   LeafAmount:0   
+No.312   Length:0.9331   Redius:1.8662   LeafAmount:2   
+No.313   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.314   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.315   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.316   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.317   Rule:B(l*0.6,w*0.85,y*0.6)
+No.318   Length:1.01549   Redius:2.03099   LeafAmount:0   
+No.319   Length:0.809179   Redius:1.61836   LeafAmount:2   
+No.320   Length:1.04782   Redius:2.09563   LeafAmount:0   
+No.321   Length:0.83418   Redius:1.66836   LeafAmount:2   
+No.322   Length:1.07602   Redius:2.15205   LeafAmount:0   
+No.323   Length:0.87018   Redius:1.74036   LeafAmount:2   
+No.324   Length:1.10552   Redius:2.21105   LeafAmount:0   
+No.325   Length:0.9331   Redius:1.8662   LeafAmount:2   
+No.326   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.327   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.328   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.329   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.330   Rule:B(l*0.6,w*0.85,y*0.6)
+No.331   Length:1.01549   Redius:2.03099   LeafAmount:0   
+No.332   Length:1.03298   Redius:2.06595   LeafAmount:0   
+No.333   Length:1.04989   Redius:2.09977   LeafAmount:0   
+No.334   Length:1.06426   Redius:2.12852   LeafAmount:0   
+No.335   Length:0.84465   Redius:1.6893   LeafAmount:2   
+No.336   Length:1.09164   Redius:2.18327   LeafAmount:0   
+No.337   Length:0.880815   Redius:1.76163   LeafAmount:2   
+No.338   Length:1.12033   Redius:2.24067   LeafAmount:0   
+No.339   Length:0.944151   Redius:1.8883   LeafAmount:2   
+No.340   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.341   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.342   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.343   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.344   Rule:B(l*0.6,w*0.85,y*0.6)
+No.345   Length:1.06426   Redius:2.12852   LeafAmount:0   
+No.346   Length:0.84465   Redius:1.6893   LeafAmount:2   
+No.347   Length:1.09164   Redius:2.18327   LeafAmount:0   
+No.348   Length:0.880815   Redius:1.76163   LeafAmount:2   
+No.349   Length:1.12033   Redius:2.24067   LeafAmount:0   
+No.350   Length:0.944151   Redius:1.8883   LeafAmount:2   
+No.351   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.352   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.353   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.354   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.355   Rule:B(l*0.6,w*0.85,y*0.6)
+No.356   Length:1.06426   Redius:2.12852   LeafAmount:0   
+No.357   Length:0.84465   Redius:1.6893   LeafAmount:2   
+No.358   Length:1.09164   Redius:2.18327   LeafAmount:0   
+No.359   Length:0.880815   Redius:1.76163   LeafAmount:2   
+No.360   Length:1.12033   Redius:2.24067   LeafAmount:0   
+No.361   Length:0.944151   Redius:1.8883   LeafAmount:2   
+No.362   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.363   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.364   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.365   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.366   Rule:B(l*0.6,w*0.85,y*0.6)
+No.367   Length:1.06426   Redius:2.12852   LeafAmount:0   
+No.368   Length:0.84465   Redius:1.6893   LeafAmount:2   
+No.369   Length:1.09164   Redius:2.18327   LeafAmount:0   
+No.370   Length:0.880815   Redius:1.76163   LeafAmount:2   
+No.371   Length:1.12033   Redius:2.24067   LeafAmount:0   
+No.372   Length:0.944151   Redius:1.8883   LeafAmount:2   
+No.373   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.374   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.375   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.376   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.377   Rule:B(l*0.6,w*0.85,y*0.6)
+No.378   Length:1.06426   Redius:2.12852   LeafAmount:0   
+No.379   Length:0.84465   Redius:1.6893   LeafAmount:2   
+No.380   Length:1.09164   Redius:2.18327   LeafAmount:0   
+No.381   Length:0.880815   Redius:1.76163   LeafAmount:2   
+No.382   Length:1.12033   Redius:2.24067   LeafAmount:0   
+No.383   Length:0.944151   Redius:1.8883   LeafAmount:2   
+No.384   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.385   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.386   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.387   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.388   Rule:B(l*0.6,w*0.85,y*0.6)
+No.389   Length:1.06426   Redius:2.12852   LeafAmount:0   
+No.390   Length:0.84465   Redius:1.6893   LeafAmount:2   
+No.391   Length:1.09164   Redius:2.18327   LeafAmount:0   
+No.392   Length:0.880815   Redius:1.76163   LeafAmount:2   
+No.393   Length:1.12033   Redius:2.24067   LeafAmount:0   
+No.394   Length:0.944151   Redius:1.8883   LeafAmount:2   
+No.395   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.396   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.397   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.398   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.399   Rule:B(l*0.6,w*0.85,y*0.6)
+No.400   Length:1.06426   Redius:2.12852   LeafAmount:0   
+No.401   Length:0.84465   Redius:1.6893   LeafAmount:2   
+No.402   Length:1.09164   Redius:2.18327   LeafAmount:0   
+No.403   Length:0.880815   Redius:1.76163   LeafAmount:2   
+No.404   Length:1.12033   Redius:2.24067   LeafAmount:0   
+No.405   Length:0.944151   Redius:1.8883   LeafAmount:2   
+No.406   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.407   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.408   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.409   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.410   Rule:B(l*0.6,w*0.85,y*0.6)
+No.411   Length:1.06426   Redius:2.12852   LeafAmount:0   
+No.412   Length:1.08021   Redius:2.16043   LeafAmount:0   
+No.413   Length:1.09571   Redius:2.19142   LeafAmount:0   
+No.414   Length:1.10682   Redius:2.21363   LeafAmount:0   
+No.415   Length:0.891199   Redius:1.7824   LeafAmount:2   
+No.416   Length:1.13476   Redius:2.26952   LeafAmount:0   
+No.417   Length:0.954949   Redius:1.9099   LeafAmount:2   
+No.418   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.419   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.420   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.421   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.422   Rule:B(l*0.6,w*0.85,y*0.6)
+No.423   Length:1.10682   Redius:2.21363   LeafAmount:0   
+No.424   Length:0.891199   Redius:1.7824   LeafAmount:2   
+No.425   Length:1.13476   Redius:2.26952   LeafAmount:0   
+No.426   Length:0.954949   Redius:1.9099   LeafAmount:2   
+No.427   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.428   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.429   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.430   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.431   Rule:B(l*0.6,w*0.85,y*0.6)
+No.432   Length:1.10682   Redius:2.21363   LeafAmount:0   
+No.433   Length:0.891199   Redius:1.7824   LeafAmount:2   
+No.434   Length:1.13476   Redius:2.26952   LeafAmount:0   
+No.435   Length:0.954949   Redius:1.9099   LeafAmount:2   
+No.436   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.437   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.438   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.439   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.440   Rule:B(l*0.6,w*0.85,y*0.6)
+No.441   Length:1.10682   Redius:2.21363   LeafAmount:0   
+No.442   Length:0.891199   Redius:1.7824   LeafAmount:2   
+No.443   Length:1.13476   Redius:2.26952   LeafAmount:0   
+No.444   Length:0.954949   Redius:1.9099   LeafAmount:2   
+No.445   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.446   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.447   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.448   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.449   Rule:B(l*0.6,w*0.85,y*0.6)
+No.450   Length:1.10682   Redius:2.21363   LeafAmount:0   
+No.451   Length:0.891199   Redius:1.7824   LeafAmount:2   
+No.452   Length:1.13476   Redius:2.26952   LeafAmount:0   
+No.453   Length:0.954949   Redius:1.9099   LeafAmount:2   
+No.454   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.455   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.456   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.457   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.458   Rule:B(l*0.6,w*0.85,y*0.6)
+No.459   Length:1.10682   Redius:2.21363   LeafAmount:0   
+No.460   Length:0.891199   Redius:1.7824   LeafAmount:2   
+No.461   Length:1.13476   Redius:2.26952   LeafAmount:0   
+No.462   Length:0.954949   Redius:1.9099   LeafAmount:2   
+No.463   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.464   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.465   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.466   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.467   Rule:B(l*0.6,w*0.85,y*0.6)
+No.468   Length:1.10682   Redius:2.21363   LeafAmount:0   
+No.469   Length:0.891199   Redius:1.7824   LeafAmount:2   
+No.470   Length:1.13476   Redius:2.26952   LeafAmount:0   
+No.471   Length:0.954949   Redius:1.9099   LeafAmount:2   
+No.472   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.473   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.474   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.475   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.476   Rule:B(l*0.6,w*0.85,y*0.6)
+No.477   Length:1.10682   Redius:2.21363   LeafAmount:0   
+No.478   Length:1.12159   Redius:2.24318   LeafAmount:0   
+No.479   Length:1.13598   Redius:2.27197   LeafAmount:0   
+No.480   Length:1.14883   Redius:2.29766   LeafAmount:0   
+No.481   Length:0.965508   Redius:1.93102   LeafAmount:2   
+No.482   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.483   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.484   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.485   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.486   Rule:B(l*0.6,w*0.85,y*0.6)
+No.487   Length:1.14883   Redius:2.29766   LeafAmount:0   
+No.488   Length:0.965508   Redius:1.93102   LeafAmount:2   
+No.489   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.490   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.491   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.492   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.493   Rule:B(l*0.6,w*0.85,y*0.6)
+No.494   Length:1.14883   Redius:2.29766   LeafAmount:0   
+No.495   Length:0.965508   Redius:1.93102   LeafAmount:2   
+No.496   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.497   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.498   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.499   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.500   Rule:B(l*0.6,w*0.85,y*0.6)
+No.501   Length:1.14883   Redius:2.29766   LeafAmount:0   
+No.502   Length:0.965508   Redius:1.93102   LeafAmount:2   
+No.503   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.504   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.505   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.506   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.507   Rule:B(l*0.6,w*0.85,y*0.6)
+No.508   Length:1.14883   Redius:2.29766   LeafAmount:0   
+No.509   Length:0.965508   Redius:1.93102   LeafAmount:2   
+No.510   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.511   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.512   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.513   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.514   Rule:B(l*0.6,w*0.85,y*0.6)
+No.515   Length:1.14883   Redius:2.29766   LeafAmount:0   
+No.516   Length:0.965508   Redius:1.93102   LeafAmount:2   
+No.517   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.518   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.519   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.520   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.521   Rule:B(l*0.6,w*0.85,y*0.6)
+No.522   Length:1.14883   Redius:2.29766   LeafAmount:0   
+No.523   Length:0.965508   Redius:1.93102   LeafAmount:2   
+No.524   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.525   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.526   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.527   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.528   Rule:B(l*0.6,w*0.85,y*0.6)
+No.529   Length:1.14883   Redius:2.29766   LeafAmount:0   
+No.530   Length:1.16256   Redius:2.32512   LeafAmount:0   
+No.531   Length:1.17597   Redius:2.35195   LeafAmount:0   
+No.532   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.533   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.534   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.535   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.536   Rule:B(l*0.6,w*0.85,y*0.6)
+No.537   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.538   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.539   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.540   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.541   Rule:B(l*0.6,w*0.85,y*0.6)
+No.542   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.543   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.544   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.545   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.546   Rule:B(l*0.6,w*0.85,y*0.6)
+No.547   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.548   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.549   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.550   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.551   Rule:B(l*0.6,w*0.85,y*0.6)
+No.552   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.553   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.554   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.555   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.556   Rule:B(l*0.6,w*0.85,y*0.6)
+No.557   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.558   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.559   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.560   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.561   Rule:B(l*0.6,w*0.85,y*0.6)
+No.562   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.563   Length:0.517047   Redius:1.03409   LeafAmount:2   
+No.564   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.565   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.566   Rule:B(l*0.6,w*0.85,y*0.6)
+No.567   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.568   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.569   Length:0.517047   Redius:1.03409   LeafAmount:0   
+No.570   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.571   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.572   Rule:B(l*0.6,w*0.85,y*0.6)
+No.573   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.574   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.575   Rule:B(l*0.6,w*0.85,y*0.6)
+No.576   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.577   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.578   Rule:B(l*0.6,w*0.85,y*0.6)
+No.579   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.580   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.581   Rule:B(l*0.6,w*0.85,y*0.6)
+No.582   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.583   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.584   Rule:B(l*0.6,w*0.85,y*0.6)
+No.585   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.586   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.587   Rule:B(l*0.6,w*0.85,y*0.6)
+No.588   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.589   Length:0.507661   Redius:1.01532   LeafAmount:2   
+No.590   Rule:B(l*0.6,w*0.85,y*0.6)
+No.591   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.592   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.593   Length:0.507661   Redius:1.01532   LeafAmount:0   
+No.594   Rule:B(l*0.5,w*0.45,2)
+No.595   Rule:B(l*0.5,w*0.45,3)
+No.596   Rule:B(l*0.5,w*0.45,1)
+No.597   Rule:B(l*0.5,w*0.45,1)
+No.598   Rule:B(l*0.5,w*0.45,1)
+No.599   Rule:B(l*0.5,w*0.45,1)
+No.600   Rule:B(l*0.5,w*0.45,1)
+No.601   Rule:A(l*0.89,w*0.75)
+Segments:537   Leaves:504
